@@ -13,5 +13,5 @@ Sl. No. | Repo Description                       | Repo URL                     
 3       | SQL + PySpark Practice Set             | [Link](https://github.com/priyankghosh/SQL-Practice-Qs)               |
 4       | PySpark Handson Practice (Diff Funcs)  | [Link](https://github.com/priyankghosh/PySpark-Practice-Handson)      |
 5       | PySpark Tuning Pratice                 | [Link](https://github.com/priyankghosh/PySpark-Tuning-Practice)       |
-
+6       | Prashant Kumar Pandey (Udemy-Docs)     | [Link](https://github.com/priyankghosh/PrashantKumarPandey_Docs)      |
 
