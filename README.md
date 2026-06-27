@@ -14,4 +14,6 @@ Sl. No. | Repo Description                       | Repo URL                     
 4       | PySpark Handson Practice (Diff Funcs)  | [Link](https://github.com/priyankghosh/PySpark-Practice-Handson)      |
 5       | PySpark Tuning Pratice                 | [Link](https://github.com/priyankghosh/PySpark-Tuning-Practice)       |
 6       | Prashant Kumar Pandey (Udemy-Docs)     | [Link](https://github.com/priyankghosh/PrashantKumarPandey_Docs)      |
+7       | PySpark Scripting Practice (Upsert)    | [Link](https://github.com/priyankghosh/PySpark-Scripting-Demo)        |
+
 
